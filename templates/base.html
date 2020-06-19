@@ -1,0 +1,107 @@
+{% load static %}
+{% load i18n %}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>{% block title%}{% endblock %}</title>
+	<!-- CSS only -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+	<!-- JS, Popper.js, and jQuery -->
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="{% static 'mainpage/css/style.css' %}">
+  <link rel="shortcut icon" href="{% static "mainpage/img/olimp2.ico" %}" type="image/x-icon">
+
+
+
+<!--	<link rel="shortcut icon" href="{% static "mainpage/img/icon.ico type="image/x-svg"> -->
+</head>
+
+<body>
+  <div class="colordiv">
+  <nav class="mainnavbar">
+  
+    <p class="textnavbar"><img src="https://img.icons8.com/android/24/000000/phone.png" width="20px" /><a href="https://api.whatsapp.com/send?phone=996700368985" style="color: white">+996 (700) 36-89-85</a></p>
+
+  </nav>
+  <div class="mainnav">
+    <img src="{% static 'mainpage/img/olimp.png' %}" width="150px">
+    <strong class="strong">{% trans 'Центр Всемирного Таэквондо ОЛИМП'%}</strong>
+
+  </div>
+
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark" >
+  <a class="navbar-brand" href="#" ></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+
+    <ul class="navbar-nav">
+
+
+      <li class="nav-item active">
+        <a class="nav-link" href="{% url 'main'%}">{% trans 'ГЛАВНАЯ'%} <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="{% url 'about'%}">{% trans 'О НАС'%}<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="{% url 'email' %}">{% trans 'КОНТАКТЫ'%} <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="{% url 'gallery' %}">{% trans 'ГАЛЕРЕЯ'%} <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="{% url 'kyrgyzstan' %}">{% trans 'О КЫРГЫЗСТАНЕ'%} <span class="sr-only">(current)</span></a>
+      </li>
+
+                                        <!-- выбор языка для сайта-->
+                            <form action="{% url 'set_language' %}" method="post">{% csrf_token %}
+                        <input name="next" type="hidden" value="{{ redirect_to }}">
+                        <select name="language">
+                            {% get_current_language as LANGUAGE_CODE %}
+                            {% get_available_languages as LANGUAGES %}
+                            {% get_language_info_list for LANGUAGES as languages %}
+                            {% for language in languages %}
+                                <option value="{{ language.code }}"{% if language.code == LANGUAGE_CODE %}
+                                        selected{% endif %}>
+                                    {{ language.name_local }} ({{ language.code }})
+                                </option>
+                            {% endfor %}
+                        </select>
+                        <input type="submit" value="Go">
+                    </form>
+
+        </div>
+      </li>
+    </ul>
+  </div>
+  </div>
+</nav>
+	{% block content %}{% endblock%}
+
+
+
+
+        <footer class="footer" align='center'><br><br>
+
+        <div align="center">
+        <span><h6>{% trans 'Olymp.kg © 2020. Все права защищены'%}</h6></span>
+               
+    	</div>
+       
+        <h6>{% trans 'Автор проекта: Саматов Дастан'%}</h6><br>
+        <h6>{% trans 'Кыргызстан'%}</h6><br>
+        <a href="https://www.instagram.com/kyrgyz_taekwondo/?hl=ru"><img src="https://cdn.svgporn.com/logos/instagram-icon.svg"  width="30px" class="social" ></a>
+        <a href="https://m.facebook.com/Nyazbekov-NKB-1821133331522721/posts/?ref=page_internal&mt_nav=0"><img src="{% static 'mainpage/img/icons8-facebook.svg' %}"  width="30px" class="social" ></a>
+        <a href="https://api.whatsapp.com/send?phone=996700368985"><img src="{% static 'mainpage/img/icons8-whatsapp.svg' %}"  width="30px" class="social" ></a>
+        
+        
+    </footer>
+    
+</body>
+</html>

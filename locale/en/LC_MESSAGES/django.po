@@ -1,0 +1,598 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-19 13:49+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\templates\base.html:32 .\templates\shop\main.html:134
+msgid "Центр Всемирного Таэквондо ОЛИМП"
+msgstr "World Taekwondo Center OLYMP"
+
+#: .\templates\base.html:47
+msgid "ГЛАВНАЯ"
+msgstr "HOME"
+
+#: .\templates\base.html:50
+msgid "О НАС"
+msgstr "ABOUT US"
+
+#: .\templates\base.html:53
+msgid "КОНТАКТЫ"
+msgstr "MAIL US"
+
+#: .\templates\base.html:56
+msgid "ГАЛЕРЕЯ"
+msgstr "GALLERY"
+
+#: .\templates\base.html:59
+msgid "О КЫРГЫЗСТАНЕ"
+msgstr "ABOUT KYRGYZSTAN"
+
+#: .\templates\base.html:93
+msgid "Olymp.kg © 2020. Все права защищены"
+msgstr "Olymp.kg © 2020. All rights reserved"
+
+#: .\templates\base.html:97
+msgid "Автор проекта: Саматов Дастан"
+msgstr "Project author: Samatov Dastan"
+
+#: .\templates\base.html:98
+msgid "Кыргызстан"
+msgstr "Kyrgyzstan"
+
+#: .\templates\shop\about.html:10
+msgid "О нас!"
+msgstr "About us!"
+
+#: .\templates\shop\about.html:36
+msgid ""
+"Деятельность центра ОЛИМП(WT) ориентирована на подготовку специализированных "
+"кадров — инструкторов, которые смогли бы в дальнейшем проявить себя в сфере "
+"физкультуры и спорта, пропагандируя здоровый образ жизни. Особое внимание "
+"отводится тем, кто намерен сделать тренерскую стезю делом своей жизни, "
+"станет развивать данный олимпийский вид спорта в Кыргызстане, воспитывая "
+"новую плеяду чемпионов самых престижных международных турниров, вплоть до "
+"Олимпийских игр."
+msgstr ""
+"The activities of the OLYMP center (WT) are focused on the training of "
+"specializedcadres - instructors who could further prove themselves in the "
+"fieldPhysical education and sports, promoting a healthy lifestyle. "
+"Particular attentionassigned to those who intend to make the coaching path a "
+"matter of their life,will develop this Olympic sport in Kyrgyzstan, "
+"educatinga new galaxy of champions of the most prestigious international "
+"tournaments, up toOlympic Games."
+
+#: .\templates\shop\about.html:40
+msgid ""
+"Немаловажным аспектом работы Клуба ОЛИМП является и социальная работа. Так, "
+"двери к нашему ОЛИМП (WTC) открыты и для детей с различными физическими "
+"недостатками. Для них занятия дважды в неделю проводят инструкторы клуба на "
+"безвозмездной основе. Руководство клуба ОЛИМП видит в этом свою социальную "
+"миссию и ответственность перед обществом, приобщая к этому своих молодых "
+"наставников.."
+msgstr ""
+"An important aspect of the work of the OLYMP Club is social work. So,the "
+"doors to our OLYMPUS (WTC) are open for children with various physical "
+"conditionsDisabilities. For them, club instructors conduct classes twice a "
+"week onfree of charge. The leadership of the club OLYMPM sees this as its "
+"socialmission and responsibility to society, introducing our young people to "
+"thismentors .."
+
+#: .\templates\shop\about.html:50
+msgid ""
+"Ещё одним важным направлением деятельности клуба ОЛИМП (WTC) КР является "
+"воспитание у молодых спортсменов толерантного отношения к корейской культуре "
+"и традициям, формируя, тем самым, культурную социальную среду. Таэквондо – "
+"это национальный корейский вид спорта, поэтому руководство и тренерский "
+"состав ОЛИМП (WTC) синхронизируют работу, не отступая от корейских обычаев и "
+"традиций, вплоть до упражнений, названий блоков, ударов, принятых в "
+"Республике Корея."
+msgstr ""
+"Another important area of ​​activity of the club OLYMPUS (WTC) KR iseducation "
+"of young athletes tolerant attitude towards Korean cultureand traditions, "
+"thereby forming a cultural social environment. Taekwondo -this is a national "
+"Korean sport, so leadership and coachingthe composition of OLYMPUS (WTC) "
+"synchronize the work without departing from Korean customs andtraditions, "
+"down to exercises, block names, strokes, accepted inRepublic of Korea."
+
+#: .\templates\shop\about.html:52
+msgid ""
+"За время существования клуба ОЛИМП (WTC) проделана огромная спортивная и "
+"организационно-массовая работа: модернизирована система судейства, сделан "
+"большой вклад в развитие Таэквондо в Кыргызстане. Проводиться ежегодное "
+"Первенство и Кубок ОЛИМП (WTС) КР, с участием стран ближнего и дальнего "
+"зарубежья, так же проводятся аттестации (защита на цветные и черные пояса) и "
+"тренерские семинары, для повышения квалификации."
+msgstr ""
+"During the existence of the OLIMP club (WTC), a huge sports and "
+"organizational-mass work has been done: the judging system has been "
+"modernized, a large contribution has been made to the development of "
+"Taekwondo in Kyrgyzstan. The annual Championship and the OLIMP Cup (WTC) of "
+"the Kyrgyz Republic are held, with the participation of countries near and "
+"far abroad, as well as certifications (protection for colored and black "
+"belts) and training seminars are held to improve skills."
+
+#: .\templates\shop\about.html:54
+msgid ""
+"Воспитанники ОЛИМП занимаются не только в спортивном зале, но ежегодно "
+"вместе с тренером и инструкторами проходят учебно-тренировочные сборы на "
+"озере Иссык-Куль. Подобные мероприятия замечательно укрепляют командный дух "
+"и физическое здоровье воспитанников."
+msgstr ""
+"Pupils of OLIMP are engaged not only in the gym, but annually together with "
+"the trainer and instructors pass training camps on Issyk-Kul Lake. Such "
+"events remarkably strengthen the team spirit and physical health of students."
+
+#: .\templates\shop\email.html:14
+msgid "Обратная связь"
+msgstr "Feedback"
+
+#: .\templates\shop\email.html:30
+msgid "Укажите свой номер телефона  *"
+msgstr "Enter your numberphone"
+
+#: .\templates\shop\email.html:43
+msgid "Напишите сообщения ...*"
+msgstr "Enter your messages"
+
+#: .\templates\shop\email.html:62
+msgid "Контакты"
+msgstr "Contacts"
+
+#: .\templates\shop\email.html:63
+msgid "Адрес:г.Бишкек СК\" Локомотив\" "
+msgstr "Addres: Bishkek, SC Lokomotiv"
+
+#: .\templates\shop\email.html:64
+msgid "Адрес: г.Шопоков, KIUC"
+msgstr "Addres: Shopokov, KIUC "
+
+#: .\templates\shop\email.html:65
+msgid "Тренер- Ныязбеков Кабыл"
+msgstr "Coach- Nyazbekov Kabyl"
+
+#: .\templates\shop\kyrgyzstan.html:7
+msgid "О Кыргызстане!"
+msgstr " About Kyrgyzstan!"
+
+#: .\templates\shop\kyrgyzstan.html:14
+msgid ""
+"Киргизия – гористая страна в Центральной Азии. Она расположена вдоль "
+"Великого шелкового пути – древней торговой дороги между Китаем и "
+"Средиземноморьем. В горах Тянь-Шань, которые окружают этот караванный путь и "
+"занимают большую часть страны, обитают снежные барсы, рыси и овцы. На юге "
+"страны находится город Ош, история которого насчитывает более тысячи лет. Он "
+"славится огромным базаром, где когда-то останавливались купцы, следовавшие "
+"по Великому шелковому пути."
+msgstr ""
+"Kyrgyzstan is a mountainous country in Central Asia.  It is located along "
+"the Great Silk Road, an ancient trade route between China and the "
+"Mediterranean.  In the Tien Shan mountains, which surround this caravan "
+"route and occupy a large part of the country, snow leopards, lynxes and "
+"sheep live.  In the south of the country is the city of Osh, whose history "
+"goes back more than a thousand years.  It is famous for its huge bazaar, "
+"where merchants who once followed the Silk Road once stopped."
+
+#: .\templates\shop\kyrgyzstan.html:18
+msgid "Общая информация"
+msgstr "Main information"
+
+#: .\templates\shop\kyrgyzstan.html:20
+msgid ""
+"Находится Республика в центре Евразийского континента, на пересечении "
+"воздушных сообщений между Востоком и Западом, Севером и Югом. В зоне 4-"
+"часового перелета из аэропорта «Манас» расположены города: Москва (Россия), "
+"Пекин (Китай), Стамбул (Турция), Дели (Индия)."
+msgstr ""
+"The Republic is located in the center of the Eurasian continent, at the "
+"intersectionair links between East and West, North and South. In zone 4-an "
+"hour flight from the Manas airport the cities are located: Moscow (Russia),"
+"Beijing (China), Istanbul (Turkey), Delhi (India)."
+
+#: .\templates\shop\kyrgyzstan.html:23
+msgid "Расположение:"
+msgstr "Location:"
+
+#: .\templates\shop\kyrgyzstan.html:23
+msgid "северо-восток Средней Азии."
+msgstr "northeast of Central Asia."
+
+#: .\templates\shop\kyrgyzstan.html:24
+msgid "Координаты:"
+msgstr "Coordinates:"
+
+#: .\templates\shop\kyrgyzstan.html:24
+msgid "41° 00″ северной широты, 75° 00″ восточной долготы."
+msgstr "41 ° 00 ″ north latitude, 75 ° 00 ″ east longitude."
+
+#: .\templates\shop\kyrgyzstan.html:25
+msgid "Площадь:"
+msgstr "Area:"
+
+#: .\templates\shop\kyrgyzstan.html:25
+#, python-format
+msgid ""
+"198,5 кв.км. 94%% страны занимают горы. Средняя высота — 2750 м над уровнем "
+"моря."
+msgstr ""
+"198.5 sq. Km. 94 %% of the country is mountains. The average height is 2750 "
+"m above the levelseas."
+
+#: .\templates\shop\kyrgyzstan.html:26
+msgid "Население:"
+msgstr "Population"
+
+#: .\templates\shop\kyrgyzstan.html:26
+msgid "5 500,0 тыс. человек"
+msgstr "5 500.0 thousand people"
+
+#: .\templates\shop\kyrgyzstan.html:27
+msgid "Состав населения:"
+msgstr "Composition of the population:"
+
+#: .\templates\shop\kyrgyzstan.html:27
+#, python-format
+msgid ""
+"Кыргызы — 58%%, русские — 18%%, узбеки — 16%%, казахи, таджики, уйгуры и "
+"прочие национальности — 8%%."
+msgstr ""
+"Kyrgyz - 58 %%, Russians - 18 %%, Uzbeks - 16 %%, Kazakhs, Tajiks, Uighurs "
+"andother nationalities - 8 %%."
+
+#: .\templates\shop\kyrgyzstan.html:28
+msgid "Столица Кыргызстана:"
+msgstr "Capital of Kyrgyzstan"
+
+#: .\templates\shop\kyrgyzstan.html:28
+msgid "Бишкек"
+msgstr "Bishkek"
+
+#: .\templates\shop\kyrgyzstan.html:29
+msgid "Язык:"
+msgstr "Languages"
+
+#: .\templates\shop\kyrgyzstan.html:29
+msgid ""
+"Кыргызский — государственный, русский — официальный и основной язык общения."
+msgstr ""
+"Kyrgyz is the state, Russian is the official and main language of "
+"communication."
+
+#: .\templates\shop\kyrgyzstan.html:30
+msgid "Религия:"
+msgstr "Religion:"
+
+#: .\templates\shop\kyrgyzstan.html:30
+#, python-format
+msgid "Ислам — 75%%, православие — 20%%, прочие религии — 5%%."
+msgstr "Islam - 75 %%, Orthodoxy - 20 %%, other religions - 5 %%."
+
+#: .\templates\shop\kyrgyzstan.html:31
+msgid "Время:"
+msgstr "Time zone"
+
+#: .\templates\shop\kyrgyzstan.html:31
+msgid "по Гривинчу + 5 часов."
+msgstr "Grivinc + 5 hours."
+
+#: .\templates\shop\kyrgyzstan.html:32
+msgid "Электроэнергия:"
+msgstr "Electricity:"
+
+#: .\templates\shop\kyrgyzstan.html:32
+msgid "220 V AC, 50 А; стандартное гнездо двойного штепселя"
+msgstr "220 V AC, 50 A; standard double plug socket"
+
+#: .\templates\shop\kyrgyzstan.html:33
+msgid "Интернет зона:"
+msgstr "Internet zone"
+
+#: .\templates\shop\kyrgyzstan.html:33
+msgid ".kg"
+msgstr ".kg"
+
+#: .\templates\shop\kyrgyzstan.html:34
+msgid "Национальная валюта:"
+msgstr "National currency:"
+
+#: .\templates\shop\kyrgyzstan.html:34
+msgid "Сом (100 тыйын)"
+msgstr "Som (100 tiyin)"
+
+#: .\templates\shop\kyrgyzstan.html:35
+msgid "Лучшее время для путешествия:"
+msgstr "Best time to travel:"
+
+#: .\templates\shop\kyrgyzstan.html:35
+msgid "Май — октябрь"
+msgstr "May - october"
+
+#: .\templates\shop\kyrgyzstan.html:37
+msgid "Географическое положение"
+msgstr "Geographical position"
+
+#: .\templates\shop\kyrgyzstan.html:59
+#, python-format
+msgid ""
+"Кыргызстан граничит: на севере — с Казахстаном, на западе и северо-западе — "
+"с Узбекистаном, на юго-западе — с Таджикистаном и на юге и юго-востоке — с "
+"Китаем (протяженность границы 1049 км). Общая длина границ Кыргызстана — "
+"4503 км. Общая площадь республики — 198,5 км2. 94%% страны занимают горы. "
+"Средняя высота — 2750 м над уровнем моря."
+msgstr ""
+"Kyrgyzstan borders: in the north - with Kazakhstan, in the west and north-"
+"west -with Uzbekistan, in the south-west - with Tajikistan and in the south "
+"and southeast - withChina (border length 1049 km). The total length of the "
+"borders of Kyrgyzstan -4503 km. The total area of ​​the republic is 198.5 km2. "
+"94 %% of the country is mountains.The average height is 2750 m above sea "
+"level."
+
+#: .\templates\shop\kyrgyzstan.html:61
+msgid ""
+"Территория Кыргызской Республики простирается с запада на восток на 900 км, "
+"с севера на юг на 410 км и лежит примерно между 39° и 43° северной широты. "
+"Наиболее высоко поднятая часть территории республики находится на ее "
+"восточной окраине. Здесь, в горном узле, пограничном с Китаем, возвышаются "
+"высочайшие точки всей Тянь-шаньской горной системы — пик Победы (7439 м) и "
+"Хан-Тенгри (6995 м). Отсюда хребты веерообразно расходятся на запад и юго-"
+"запад, создавая обособленные параллельные цепи, простирающиеся, в основном, "
+"в широтном направлении до 300-400 км. На крайней южной границе республики с "
+"Таджикистаном выделяется высочайший Чон-Алайский (Заалайский) хребет, где "
+"находится вторая по высоте вершина Кыргызстана — пик Ленина (7134 м)."
+msgstr ""
+"The territory of the Kyrgyz Republic extends from west to east for 900 km,"
+"from north to south for 410 km and lies approximately between 39 ° and 43 ° "
+"north latitude.The highest elevated part of the republic’s territory is "
+"located on iteastern outskirts. Here, in a mountain junction bordering "
+"China, risethe highest points of the entire Tien Shan mountain system - "
+"Victory Peak (7439 m) andKhan Tengri (6995 m). From here the ridges fan-"
+"shaped diverge to the west and south-West, creating separate parallel chains "
+"extending, basically,in the latitudinal direction up to 300-400 km. On the "
+"extreme southern border of the republic withTajikistan distinguishes the "
+"highest Chon-Alai (Zaalaysky) ridge, wherethere is the second highest peak "
+"in Kyrgyzstan - Lenin peak (7134 m)."
+
+#: .\templates\shop\kyrgyzstan.html:65
+msgid ""
+"Сложное строение горного рельефа и пестрота экологических условий обусловили "
+"большое разнообразие почвенно-растительного покрова и животного мира "
+"Кыргызстана. На его территории встречаются пустыни, степи, луга, леса, "
+"заросли кустарников, болота, горные тундры и другие типы растительности."
+msgstr ""
+"The complex structure of the mountainous terrain and the variegated "
+"environmental conditions causeda wide variety of land cover and "
+"wildlifeKyrgyzstan. On its territory there are deserts, steppes, meadows, "
+"forests,bushes, swamps, mountain tundra and other types of vegetation."
+
+#: .\templates\shop\kyrgyzstan.html:67
+#, python-format
+msgid ""
+"Кыргызская Республика имеет огромный запас водных ресурсов. В 7 самых "
+"больших речных бассейнах располагается более 28000 рек и истоков, 90%% "
+"которых имеют длину 10 км. Среди них есть реки с высоким уровнем воды. "
+"Например, река Нарын протяжённостью более 500 километров."
+msgstr ""
+"The Kyrgyz Republic has a huge supply of water resources. In the 7 mostlarge "
+"river basins are located more than 28,000 rivers and sources, 90 %%which are "
+"10 km long. Among them are rivers with high water levels.For example, the "
+"Naryn river with a length of more than 500 kilometers."
+
+#: .\templates\shop\kyrgyzstan.html:69
+#, python-format
+msgid ""
+"Республике Кыргызстан более 2000 озер и искусственных водохранилищ. Озера "
+"занимают 3,4%% территории. Около 90%% из них являются высокогорными "
+"запрудами и закрытыми озерами. Сары-Челек расположено на юго-западном склоне "
+"Чаткальской гряды, на высоте 1873,9 м над уровнем моря, и является "
+"биосферным заповедником."
+msgstr ""
+"The Republic of Kyrgyzstan has more than 2000 lakes and artificial "
+"reservoirs. Lakesoccupy 3.4 %% of the territory. About 90 %% of them are "
+"mountainousdams and closed lakes. Sary-Chelek is located on the southwestern "
+"slopeChatkal ridge, at an altitude of 1873.9 m above sea level, and "
+"isbiosphere reserve."
+
+#: .\templates\shop\kyrgyzstan.html:72
+msgid ""
+"В Кыргызстане около 2000 озёр, общая площадь которых составляет 6836 "
+"квадратных километров. Большинство озёр являются высокогорными и лежат на "
+"высоте от 2500 до 4000 метров над уровнем моря. Основной причиной "
+"формирования озёр является таяние ледников. Только 16 кыргызских озёр "
+"превышают площадь в 1 квадратный километр.Слово «Куль» в кыргызском языке "
+"означает озеро – Иссык-Куль, Сон-Куль, Чатыр-Куль."
+msgstr ""
+"There are about 2000 lakes in Kyrgyzstan, the total area of ​​which is "
+"6836square kilometers. Most of the lakes are alpine and lie onaltitude from "
+"2500 to 4000 meters above sea level. The main reasonThe formation of lakes "
+"is the melting of glaciers. Only 16 Kyrgyz lakesexceed an area of ​​1 square "
+"kilometer. The word Kul in the Kyrgyz languagemeans the lake - Issyk-Kul, "
+"Son-Kul, Chatyr-Kul."
+
+#: .\templates\shop\kyrgyzstan.html:77
+msgid ""
+"3/4 общей площади ледников принадлежит речному бассейну рек Сырдарья и "
+"Тарим, их основные центры находятся на дальнем западе, в бассейне Сары-Джаз, "
+"где находится самая большая долина ледников (Южный Энельчек, длиной 60,5 км, "
+"Кайынды — 29,0 км), а также горы Тескей Ала-Тоо, Кашаал-Тоо, Ак-Шайрык, Чон-"
+"Алай. В горах Тянь-Шаня есть ледники с плоскими вершинами. Запасы пресной "
+"воды составляют приблизительно 650 млрд. м3, что равно 12-ти речным ресурсам "
+"всей республики."
+msgstr ""
+"3/4 of the total area of ​​glaciers belongs to the river basin of the Syr "
+"Darya andTarim, their main centers are in the far west, in the Sary-Jazz "
+"basin,where is the largest valley of glaciers (South Enelchek, 60.5 km long,"
+"Kaiyndy - 29.0 km), as well as the mountains of Teskey Ala-Too, Kashaal-Too, "
+"Ak-Shayryk, Chon-Alai. In the Tien Shan mountains there are glaciers with "
+"flat peaks. Freshwater reserveswater is approximately 650 billion m3, which "
+"is equal to 12 river resourcesthe whole republic."
+
+#: .\templates\shop\kyrgyzstan.html:79
+msgid "Основные города:"
+msgstr "Main cities"
+
+#: .\templates\shop\kyrgyzstan.html:79
+msgid ""
+"Бишкек — столица Кыргызской Республики (ок. 900 000 жителей); Ош — запад "
+"Кыргызстана (ок. 300 000 жителей), Каракол — Иссык-Кульская область (ок 64 "
+"000 жителей).Областными центрами являются также города Нарын, Талас, Джалал-"
+"Абад, Баткен."
+msgstr ""
+"Bishkek - the capital of the Kyrgyz Republic (approx. 900,000 inhabitants); "
+"Osh - westKyrgyzstan (approx. 300,000 inhabitants), Karakol - Issyk-Kul "
+"Oblast (approx. 64000 inhabitants). The cities of Naryn, Talas, and Jalal "
+"are also regional centers.Abad, Batken."
+
+#: .\templates\shop\kyrgyzstan.html:81
+msgid "Климат:"
+msgstr "Climate"
+
+#: .\templates\shop\kyrgyzstan.html:81
+msgid ""
+"резко континентальный, лишь в Иссык-Кульской котловине он приближается к "
+"морскому.Средняя температура января -4оС -14оС, средняя температура июля "
+"+17оС +38оС "
+msgstr ""
+"sharply continental, only in the Issyk-Kul basin does it approachsea. The "
+"average January temperature is -4 ° C -14 ° C, the average temperature in "
+"July+ 17 ° C + 38 ° C"
+
+#: .\templates\shop\main.html:136
+msgid ""
+"Таэквондо — один из самых популярных видов корейских единоборств, которое "
+"учит не только умению физической схватки, но и дисциплине. Таэквондо "
+"открывает пути к укреплению и развитию духа, улучшая качество жизни путём "
+"тренировки тела и разума. Ценности, воплощённые в этом спорте – воспитание "
+"личности и мир на земле — признаны во всём мире. Сегодня таэквондо широко "
+"практикуется в 208 странах и является официальным олимпийским видом спорта"
+msgstr ""
+"Taekwondo - one of the most popular types of Korean martial arts, "
+"whichteaches not only the skill of physical combat, but also discipline. "
+"Taekwondoopens the way to strengthening and developing the spirit, improving "
+"the quality of life bytraining the body and mind. The values ​​embodied in "
+"this sport are educationpersonalities and peace on earth - recognized "
+"throughout the world. Today, taekwondo is widelypracticed in 208 countries "
+"and is an official Olympic sport"
+
+#: .\templates\shop\main.html:138
+msgid ""
+"Клуб ОЛИМП – базовый начальный этап подготовки инструкторов на пути "
+"становления тренерского мастерства."
+msgstr ""
+"Club OLIMP - the basic initial stage of training instructors on the "
+"waybecoming a coaching skill."
+
+#: .\templates\shop\main.html:140
+msgid ""
+"Деятельность Клуба ОЛИМП (WT) КР ориентирована на подготовку "
+"специализированных кадров — инструкторов, которые смогли бы в дальнейшем "
+"проявить себя в сфере физкультуры и спорта, пропагандировать здоровый образ "
+"жизни, развивать олимпийский вид спорта в Кыргызстане."
+msgstr ""
+"The activities of the OLYMP Club (WT) of the Kyrgyz Republic are focused on "
+"trainingspecialized cadres - instructors who would be able in the "
+"futureprove himself in the field of physical education and sports, promote a "
+"healthy imageLife, develop an Olympic sport in Kyrgyzstan."
+
+#: .\templates\shop\main.html:142
+msgid ""
+"«В своей деятельности мы исходим из понимания необходимости не только учить "
+"технике таэквондо, но и прививать нашим воспитанникам лучшие морально-"
+"волевые и человеческие качества."
+msgstr ""
+" In our work we proceed from the understanding of the need not only to teach "
+"Taekwondo technique, but also to instill in our pupils the best moral-strong-"
+"willed and human qualities."
+
+#: .\templates\shop\main.html:144
+msgid ""
+"Особенность нашего клуба таэквондо в том, что эти наши принципы разделяют "
+"тренерский состав, спортсмены и их родители. Что благотворно влияет на "
+"тренировочный процесс, организацию соревнований, сборов и поездок на "
+"международные турниры."
+msgstr ""
+"The peculiarity of our taekwondo club is that they share our principles."
+"coaching staff, athletes and their parents. What is beneficial fortraining "
+"process, organization of competitions, training camps and trips "
+"tointernational tournaments."
+
+#: .\templates\shop\main.html:148
+msgid "Если хочешь быть ЛУЧШИМ,"
+msgstr "If you want to be the BEST"
+
+#: .\templates\shop\main.html:149
+msgid "обучайся У ЛУЧШИХ!"
+msgstr "learn from the BEST!"
+
+#: .\templates\shop\main.html:154
+msgid "Тренерский состав"
+msgstr "Coaching staff"
+
+#: .\templates\shop\main.html:216
+msgid "Почему Таэквондо?"
+msgstr "Why Taekwondo"
+
+#: .\templates\shop\main.html:220
+msgid "Таэквондо"
+msgstr "Taekwondo"
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:7
+msgid "Django: the Web framework for perfectionists with deadlines."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:346
+#, python-format
+msgid ""
+"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
+"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:368
+msgid "The install worked successfully! Congratulations!"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:369
+#, python-format
+msgid ""
+"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
+"%(version)s/ref/settings/#debug\" target=\"_blank\" rel=\"noopener"
+"\">DEBUG=True</a> is in your settings file and you have not configured any "
+"URLs."
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:384
+msgid "Django Documentation"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:385
+msgid "Topics, references, &amp; how-to’s"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:396
+msgid "Tutorial: A Polling App"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:397
+msgid "Get started with Django"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:408
+msgid "Django Community"
+msgstr ""
+
+#: .\venv\Lib\site-packages\django\views\templates\default_urlconf.html:409
+msgid "Connect, get help, or contribute"
+msgstr ""

@@ -1,0 +1,75 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+{% block title %}Контакты{% endblock%}
+{% block content%}
+
+<html>
+
+<body>
+<br><br>
+    <div class="containers">
+
+
+                <h1>{% trans 'Обратная связь'%}</h1>
+                <form id="contact-form" action="{% url 'email' %}" role="form" method="post">
+                    {% csrf_token %}
+                    <div class="messages">
+                        {% if messages %}
+                        {% for message in messages %}
+                        <div class="alert {% if message.tags %}alert-{{ message.tags }}{% endif %}" role="alert">
+                            {{ message }}
+                        </div>
+                        {% endfor %}
+                        {% endif %}
+                    </div>
+                    <div class="controls">
+   
+                            <div class="col-md-6 ">
+                                <div class="form-group">
+                                    <label for="form_email">{% trans 'Укажите свой номер телефона  *'%}</label>
+                                    <input id="form_email" type="text" name="gmail" class="form-control"
+                                        placeholder="Укажите номер... *" required="required"
+                                        data-error="Valid email is required.">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                        </div>
+ 
+
+
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="form_message">{% trans 'Напишите сообщения ...*'%}</label>
+                                    <textarea id="form_message" name="message" class="form-control"
+                                        placeholder="Напишите текст..*" rows="6" required="required"
+                                        data-error="Please, leave us a message."></textarea>
+                      
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <input type="submit" class="btn btn-dark btn-send" value="Отправить сообщения">
+                            </div>
+                        </div>
+                    </div>
+
+                </form><br><br>
+
+    <div style="margin-left: 250px;">
+
+            <div style="margin-left: 100px;"> 
+            <h1>{% trans 'Контакты' %}</h1>
+            {% trans 'Адрес:г.Бишкек СК" Локомотив" ' %}<br>
+            {% trans 'Адрес: г.Шопоков, KIUC'%}<br>
+            {% trans 'Тренер- Ныязбеков Кабыл'%}
+            </div>
+    
+</div>
+    </div><br>
+    <div style="margin-left: 100px; margin-right: 100px;">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2924.547803383571!2d74.54114503624574!3d42.8612805223667!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe573e0f7a8990c38!2z0JvQvtC60L7QvNC-0YLQuNCy!5e0!3m2!1sru!2skg!4v1592472006814!5m2!1sru!2skg" width="800" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    </div>
+
+</body>
+{% endblock %}
